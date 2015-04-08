@@ -1,0 +1,80 @@
+fileFormatVersion: 2
+guid: 81ed0462eea9d2b428545ea5b2e83f23
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spider_0
+    21300002: spider_1
+    21300004: spider_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spider_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 215
+        height: 106
+      alignment: 9
+      pivot: {x: .497198492, y: .904082119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 222
+        height: 116
+      alignment: 9
+      pivot: {x: .501311719, y: .928121388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 131
+        width: 7
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: gamesprites
+  userData: 
